@@ -1,4 +1,4 @@
-package List;
+package list;
 
 
 /*
@@ -19,7 +19,7 @@ package List;
 
 import sun.awt.image.ImageWatched;
 
-public class LinkedList<T>{
+public class LinkedList<T>{i
 
     private int size;
     private Node tail;
